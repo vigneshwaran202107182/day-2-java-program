@@ -1,4 +1,9 @@
- int count=0;
+import java.util.*;
+class odd{
+
+public int isodd(int input1, input2,input3,input4,input5){
+
+int count=0;
         if(input1%2!=0){
         count+=1;
     }
